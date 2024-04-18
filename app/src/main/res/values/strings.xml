@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Google Rapid Response</string>
+
+    <string name="client_id">950364275291-ghmfp6ndn2hr2d2l1mhjl9pqa1q6b4na.apps.googleusercontent.com</string>
+
+    <!-- strings.xml -->
+    <string name="welcome_to_">
+    Welcome to Rapid Response
+    </string>
+
+    <!-- strings.xml -->
+    <string name="usersignin_">
+    User Sign In
+    </string>
+
+    <string name="select">
+        Select Item
+    </string>>
+
+    <string-array name="dropdown_options">
+        <item>Natural Disasters</item>
+        <item>Medical Emergencies</item>
+        <item>Man-Made Disasters</item>
+        <item>Technological Emergencies</item>
+        <item>Social Emergencies</item>
+        <item>Environment Emergencies</item>
+        <item>Personal Emergencies</item>
+
+        <!-- Add more options if needed -->
+    </string-array>
+
+
+</resources>
