@@ -1,4 +1,4 @@
-﻿# Google-Rapid-Response (Java - Mobile User)
+﻿# Rapid Response - Google Developers Student Club - PLM: InnOlympics 2024 Entry - Hev IT (Java - Mobile User)
 
 **Problem Statement**
 
